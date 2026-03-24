@@ -1,10 +1,6 @@
 # <p align="center">👋 Hi, I'm Elcan Quliyev</p>
 ## <p align="center">Frontend Developer | React.js & JavaScript Enthusiast</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElcanQuliyev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Elcan's Stats" />
-</p>
-
 ---
 
 ### 💻 About Me
@@ -34,13 +30,6 @@
 
 ---
 
-### 📈 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcanQuliyev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect:
-- **LinkedIn:** [(https://www.linkedin.com/in/elcan-quliyev-dev/)]
+- **LinkedIn:** [linkedin.com/in/elcan-quliyev-dev]
 - **Email:** [quliyevelcan112233@gmail.com]
